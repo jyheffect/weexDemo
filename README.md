@@ -22,3 +22,7 @@ npm run pack:web
 
 #### Native (Use weex playground)
 
+![](http://www.jyheffect.cn/images/weex.gif)
+
+
+
