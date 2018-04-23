@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Volumes/SOFTWARE/weex/jyhEffect/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_refresh.png",
+        "source": "/Volumes/SOFTWARE/weex/jyhEffect/platforms/android/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/Volumes/SOFTWARE/weex/test/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_scan.png",
+        "source": "/Volumes/SOFTWARE/weex/test/platforms/android/app/src/main/res/drawable-hdpi/ic_action_scan.png"
+    },
+    {
+        "merged": "/Volumes/SOFTWARE/weex/jyhEffect/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_scan.png",
+        "source": "/Volumes/SOFTWARE/weex/jyhEffect/platforms/android/app/src/main/res/drawable-hdpi/ic_action_scan.png"
+    },
+    {
+        "merged": "/Volumes/SOFTWARE/weex/test/platforms/android/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_action_refresh.png",
+        "source": "/Volumes/SOFTWARE/weex/test/platforms/android/app/src/main/res/drawable-hdpi/ic_action_refresh.png"
+    }
+]

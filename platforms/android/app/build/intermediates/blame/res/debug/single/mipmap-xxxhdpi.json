@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/SOFTWARE/weex/test/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Volumes/SOFTWARE/weex/test/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Volumes/SOFTWARE/weex/jyhEffect/platforms/android/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/Volumes/SOFTWARE/weex/jyhEffect/platforms/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

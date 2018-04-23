@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/SOFTWARE/weex/test/platforms/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Volumes/SOFTWARE/weex/test/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Volumes/SOFTWARE/weex/jyhEffect/platforms/android/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Volumes/SOFTWARE/weex/jyhEffect/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

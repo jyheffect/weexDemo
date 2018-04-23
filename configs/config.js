@@ -1,0 +1,81 @@
+const path = require('path');
+const ROOT = path.resolve(__dirname, '..');
+const ip = require('ip').address();
+const config = {
+  root: ROOT,
+  pluginConfigPath: 'plugins/plugins.json',
+  pluginFilePath: 'plugins/plugins.js',
+  templateDir: '.temp',
+  entryFilePath: 'entry.js',
+  dev: {
+    contentBase: ROOT,
+    host: ip,
+    port: 8081,
+    historyApiFallback: true,
+    open: true,
+    watchContentBase: true,
+    openPage: 'web/preview.html?page=jyheffect/index.js',
+    watchOptions: {
+      ignored: /node_modules/,
+      aggregateTimeout: 300,
+      poll: false
+    },
+    devtool: 'eval-source-map',
+    env: JSON.stringify('development'),
+    cacheBusting: true,
+    cssSourceMap: false,
+    proxyTable: {},
+    autoOpenBrowser: false,
+    errorOverlay: true,
+    notifyOnErrors: true
+  },
+  prod: {
+    env: JSON.stringify('production'),
+    productionSourceMap: true,
+    devtool: '#source-map',
+    cssSourceMap: true,
+    productionSourceMap: true
+  },
+  nodeConfiguration: {
+    global: false,
+    Buffer: false,
+    __filename: false,
+    __dirname: false,
+    setImmediate: false,
+    clearImmediate: false,
+    assert: false,
+    buffer: false,
+    child_process: false,
+    cluster: false,
+    console: false,
+    constants: false,
+    crypto: false,
+    dgram: false,
+    dns: false,
+    domain: false,
+    events: false,
+    fs: false,
+    http: false,
+    https: false,
+    module: false,
+    net: false,
+    os: false,
+    path: false,
+    process: false,
+    punycode: false,
+    querystring: false,
+    readline: false,
+    repl: false,
+    stream: false,
+    string_decoder: false,
+    sys: false,
+    timers: false,
+    tls: false,
+    tty: false,
+    url: false,
+    util: false,
+    vm: false,
+    zlib: false
+  }
+}
+module.exports = config;

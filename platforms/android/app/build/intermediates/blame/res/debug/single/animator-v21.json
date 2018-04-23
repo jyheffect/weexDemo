@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Volumes/SOFTWARE/weex/test/platforms/android/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/Volumes/SOFTWARE/weex/test/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/animator-v21/design_appbar_state_list_animator.xml"
+    },
+    {
+        "merged": "/Volumes/SOFTWARE/weex/jyhEffect/platforms/android/app/build/intermediates/res/merged/debug/animator-v21/design_appbar_state_list_animator.xml",
+        "source": "/Volumes/SOFTWARE/weex/jyhEffect/platforms/android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/animator-v21/design_appbar_state_list_animator.xml"
+    }
+]
