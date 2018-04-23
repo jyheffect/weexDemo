@@ -1,38 +1,24 @@
 ## Commands
 
-### npm start
+> 这是练习weex编写的基础播放器样例，目前支持构建出IOS APP 和 Android APP。
 
-Starts the development server for you to preview your weex page on browser.
-You can also scan the QR code using weex playground to preview weex page on native.
 
-### npm run dev
+```
+// 初始化项目
+npm install
 
-Open the code compilation task in watch mode.
+// 项目启动
+npm start
 
-### npm run ios
+// 项目打包
+npm run pack:web
 
-(Mac only, requires Xcode)
-Starts the development server and loads your app in an iOS simulator.
+```
 
-### npm run android
+#### Web
 
-(Requires Android build tools)
-Starts the development server and loads your app on a connected Android device or emulator.
+[http://www.jyheffect.cn/web/jyheffect/index.html](http://www.jyheffect.cn/web/jyheffect/index.html)
 
-### npm run pack:ios
 
-(Mac only, requires Xcode)
-Packaging ios project into ipa package.
+#### Native (Use weex playground)
 
-### npm run pack:android
-
-(Requires Android build tools)
-Packaging android project into apk package.
-
-### npm run pack:web
-
-Packaging html5 project into `web/build` folder.
-
-### npm run test
-
-Starts the test runner.
